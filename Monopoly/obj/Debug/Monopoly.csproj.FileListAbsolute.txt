@@ -9,3 +9,15 @@ C:\Users\олег\documents\visual studio 2015\Projects\Monopoly\Monopoly\obj\De
 C:\Users\олег\documents\visual studio 2015\Projects\Monopoly\Monopoly\obj\Debug\Monopoly.pdb
 C:\Users\олег\documents\visual studio 2015\Projects\Monopoly\Monopoly\obj\Debug\Monopoly.Form2.resources
 C:\Users\олег\Documents\Visual Studio 2015\Projects\Monopoly\Monopoly\obj\Debug\Monopoly.Form4.resources
+C:\Users\uberm\Source\Repos\OlegGolovanovHW\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+C:\Users\uberm\Source\Repos\OlegGolovanovHW\Monopoly\Monopoly\bin\Debug\Monopoly.exe
+C:\Users\uberm\Source\Repos\OlegGolovanovHW\Monopoly\Monopoly\bin\Debug\Monopoly.pdb
+C:\Users\uberm\Source\Repos\OlegGolovanovHW\Monopoly\Monopoly\obj\Debug\Monopoly.csprojAssemblyReference.cache
+C:\Users\uberm\Source\Repos\OlegGolovanovHW\Monopoly\Monopoly\obj\Debug\Monopoly.Form1.resources
+C:\Users\uberm\Source\Repos\OlegGolovanovHW\Monopoly\Monopoly\obj\Debug\Monopoly.Form2.resources
+C:\Users\uberm\Source\Repos\OlegGolovanovHW\Monopoly\Monopoly\obj\Debug\Monopoly.Form4.resources
+C:\Users\uberm\Source\Repos\OlegGolovanovHW\Monopoly\Monopoly\obj\Debug\Monopoly.Properties.Resources.resources
+C:\Users\uberm\Source\Repos\OlegGolovanovHW\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.GenerateResource.cache
+C:\Users\uberm\Source\Repos\OlegGolovanovHW\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.CoreCompileInputs.cache
+C:\Users\uberm\Source\Repos\OlegGolovanovHW\Monopoly\Monopoly\obj\Debug\Monopoly.exe
+C:\Users\uberm\Source\Repos\OlegGolovanovHW\Monopoly\Monopoly\obj\Debug\Monopoly.pdb

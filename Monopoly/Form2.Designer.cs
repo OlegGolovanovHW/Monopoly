@@ -38,25 +38,28 @@
             // 
             this.panel1.BackColor = System.Drawing.Color.White;
             this.panel1.Controls.Add(this.info);
-            this.panel1.Location = new System.Drawing.Point(12, 17);
+            this.panel1.Location = new System.Drawing.Point(9, 14);
+            this.panel1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(307, 92);
+            this.panel1.Size = new System.Drawing.Size(265, 75);
             this.panel1.TabIndex = 0;
             // 
             // info
             // 
             this.info.AutoSize = true;
-            this.info.Location = new System.Drawing.Point(3, 36);
+            this.info.Location = new System.Drawing.Point(2, 29);
+            this.info.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.info.Name = "info";
-            this.info.Size = new System.Drawing.Size(46, 17);
+            this.info.Size = new System.Drawing.Size(35, 13);
             this.info.TabIndex = 0;
             this.info.Text = "label1";
             // 
             // ok_button
             // 
-            this.ok_button.Location = new System.Drawing.Point(128, 115);
+            this.ok_button.Location = new System.Drawing.Point(9, 93);
+            this.ok_button.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.ok_button.Name = "ok_button";
-            this.ok_button.Size = new System.Drawing.Size(75, 35);
+            this.ok_button.Size = new System.Drawing.Size(265, 28);
             this.ok_button.TabIndex = 1;
             this.ok_button.Text = "OK";
             this.ok_button.UseVisualStyleBackColor = true;
@@ -64,11 +67,12 @@
             // 
             // Form2
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(331, 162);
+            this.ClientSize = new System.Drawing.Size(285, 132);
             this.Controls.Add(this.ok_button);
             this.Controls.Add(this.panel1);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Form2";
             this.Text = "Info";
             this.panel1.ResumeLayout(false);
